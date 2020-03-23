@@ -8,7 +8,7 @@ java -jar ExcelToJson-0.1.1.jar -s C:\Users\soham\Downloads\Financial_Sample.xls
 java -jar E:\ExcelTOJson\ExcelToJson-0.1.1.jar -s C:\Users\soham\Downloads\Financial_Sample.xlsx -d C:\Users\soham\Downloads</br>
 
 
-Ex : java -jar <jar location> -s <source file location> -d <destination file location></br>
+Ex : java -jar jar_location -s source_file_location -d destination_file_location</br>
 
 
 OPTIONS:</br>
